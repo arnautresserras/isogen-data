@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-09-26T15:55:49.092Z",
+  "sde": {
+    "buildNumber": 3542233,
+    "releaseDate": "2026-09-24T11:12:47Z"
+  },
+  "files": {
+    "sde": {
+      "path": "sde.b774e13d.json",
+      "sha256": "b774e13d2289e3fa330ae78109e1d941c34440d31e00585e645ab96f93ebab8f",
+      "bytes": 1999308,
+      "asOf": "2026-09-24T11:12:47Z"
+    },
+    "rigs": {
+      "path": "rigs.741af184.json",
+      "sha256": "741af184456cde9c7bb74482c450235adc367fefa5cb3f45a2b2ea156ac06383",
+      "bytes": 42469,
+      "asOf": "2026-09-24T11:12:47Z"
+    },
+    "books": {
+      "path": "books.ccc28295.json",
+      "sha256": "ccc2829531092a4acc9ea1e056be08874ec52f7f287733692ff67a87d3f950fd",
+      "bytes": 841051,
+      "asOf": "2026-09-26T15:55:43.349Z"
+    },
+    "npcBlueprints": {
+      "path": "npcBlueprints.59f4d441.json",
+      "sha256": "59f4d441564dda130d67bba2bf9bd0c13faf90833af6642d83ee425bbd9e1000",
+      "bytes": 1576115,
+      "asOf": "2026-09-25T10:51:26.044Z"
+    },
+    "plex": {
+      "path": "plex.342ca683.json",
+      "sha256": "342ca68393947d1fb1d8051950e70dee37e097685d67c8b3b4bdc94d492a01cc",
+      "bytes": 127,
+      "asOf": "2026-09-26T15:55:49.274Z"
+    },
+    "adjustedPrices": {
+      "path": "adjustedPrices.d02e65c8.json",
+      "sha256": "d02e65c8f3e8d40512aa414dc09f73d23b108c08a42622be4622b4dc39965fbd",
+      "bytes": 9004,
+      "asOf": "2026-09-26T15:55:49.360Z"
+    },
+    "indices": {
+      "path": "indices.b9cac45a.json",
+      "sha256": "b9cac45a9e6c58fc095d659bbf797227c627b3f3c021ec9dd05b4e0476e3ce39",
+      "bytes": 290171,
+      "asOf": "2026-09-26T15:55:49.601Z"
+    },
+    "indexHistory": {
+      "path": "indexHistory.fb3827c4.json",
+      "sha256": "fb3827c4b1c64cea477da54b7d69658d13fa667b898f2500345dd771b52abccc",
+      "bytes": 199436,
+      "asOf": "2026-09-26T15:55:49.601Z"
+    },
+    "volumes": {
+      "path": "volumes.0d4e3ddb.json",
+      "sha256": "0d4e3ddb6b0bfb5ee8b531ad27e2e3507bd2ce998f0f6ff8cd33aaaf5b4b3a04",
+      "bytes": 553886,
+      "asOf": "2026-09-23T23:59:59Z"
+    }
+  }
+}
