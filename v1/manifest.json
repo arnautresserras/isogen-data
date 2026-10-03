@@ -1,0 +1,70 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-10-03T20:11:01.033Z",
+  "sde": {
+    "buildNumber": 3569502,
+    "releaseDate": "2026-10-02T11:08:57Z"
+  },
+  "files": {
+    "sde": {
+      "path": "sde.9a6157ad.json",
+      "sha256": "9a6157adf324cbb4d93fb7277eb74b017a96f8e6bd488fea4aa3d2eec26b56a0",
+      "bytes": 2397364,
+      "asOf": "2026-10-02T11:08:57Z"
+    },
+    "rigs": {
+      "path": "rigs.931b26f5.json",
+      "sha256": "931b26f5405e55ad3decd7f026447d0f0a98586f5945ed48e6a9acbff750a265",
+      "bytes": 52923,
+      "asOf": "2026-10-02T11:08:57Z"
+    },
+    "books": {
+      "path": "books.6bf039cb.json",
+      "sha256": "6bf039cb5e44675dc32b0220cf2a86d4a51e3f069ca38f63402341369cbdaf88",
+      "bytes": 986305,
+      "asOf": "2026-10-03T20:10:53.561Z"
+    },
+    "npcBlueprints": {
+      "path": "npcBlueprints.59f4d441.json",
+      "sha256": "59f4d441564dda130d67bba2bf9bd0c13faf90833af6642d83ee425bbd9e1000",
+      "bytes": 1576115,
+      "asOf": "2026-10-02T16:48:31.726Z"
+    },
+    "publicStructures": {
+      "path": "publicStructures.916825d2.json",
+      "sha256": "916825d240d312e6b0fac69eb85f57c5ba68506a5308b84e1d8f546a559c29e8",
+      "bytes": 107815,
+      "asOf": "2026-10-03T19:06:06.000Z"
+    },
+    "plex": {
+      "path": "plex.9f57cebb.json",
+      "sha256": "9f57cebb7908ffa4ab87815efd2527edbeffbaf9ee58159cb0eca8701e7d1ecc",
+      "bytes": 167,
+      "asOf": "2026-10-03T20:11:01.666Z"
+    },
+    "adjustedPrices": {
+      "path": "adjustedPrices.69cc22ae.json",
+      "sha256": "69cc22aef342f358f1a405e1c8ff6a15dcaee35f33941cb256ab7818830b2189",
+      "bytes": 9413,
+      "asOf": "2026-10-03T20:11:01.781Z"
+    },
+    "indices": {
+      "path": "indices.7cd519a8.json",
+      "sha256": "7cd519a884f29895e85a2a062398c8675af10f348015b065c073d9a3cd05f565",
+      "bytes": 290117,
+      "asOf": "2026-10-03T20:11:02.133Z"
+    },
+    "indexHistory": {
+      "path": "indexHistory.fab658be.json",
+      "sha256": "fab658bef67cbbb09bbe1eb0144322a7da1bfe274cd6a6b19130f96ad39756d3",
+      "bytes": 215490,
+      "asOf": "2026-10-03T20:11:02.133Z"
+    },
+    "volumes": {
+      "path": "volumes.2e56b621.json",
+      "sha256": "2e56b62114d6006756908ae55cfe171e954e908fa40db47ea45f74199e9beba0",
+      "bytes": 553429,
+      "asOf": "2026-09-30T23:59:59Z"
+    }
+  }
+}
